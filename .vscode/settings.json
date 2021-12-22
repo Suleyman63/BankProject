@@ -1,0 +1,8 @@
+{
+  "git.ignoreLimitWarning": true,
+  "files.exclude": {
+    "": true,
+    "**/.git": false,
+    "**/.svn": false
+  }
+}

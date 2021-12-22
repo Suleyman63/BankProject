@@ -1,0 +1,17 @@
+.login-form {
+  padding: 30px;
+  height: 50vh;
+  width: 380px;
+  margin: 50px auto;
+  border-radius: 10px;
+  box-shadow: 0 0 10px grey !important;
+}
+
+.register-header {
+  color: #fe8c00;
+  background-color: #fff;
+  border-radius: 10px;
+}
+.icon-login {
+  background-color: #fe8c00 !important;
+}

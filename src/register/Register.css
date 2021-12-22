@@ -1,0 +1,33 @@
+.register {
+  width: 70vw;
+  max-width: 600px;
+  margin: 20px !important;
+  padding: 0 10px 10px !important;
+  border: 1px solid !important;
+  border-radius: 10px !important;
+  box-shadow: 0 0 10px grey !important;
+  padding-top: 20px !important;
+  height: 65vh;
+}
+legend {
+  text-align: center;
+  margin-top: 20px;
+  color: #fe8c00 !important;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 900px) {
+  .register {
+    height: 100vh;
+    width: 70vw;
+  }
+}
+
+.register-icon {
+  color: #ea8039;
+}
+.icon-div {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
